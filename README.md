@@ -91,7 +91,7 @@ Final Risk Score = (0.40 × PhotoScore) + (0.30 × FaceMatchScore) + (0.20 × Ra
 ## 🚀 Installation & Setup
 
 1. Clone the Repository
-git clone https://github.com/r20j/fake-profile-detection.git
+git clone https://github.com/vani020/fake-profile-detection.git
 cd fake-profile-detection
 2. Install Dependencies
 pip install -r requirements.txt
